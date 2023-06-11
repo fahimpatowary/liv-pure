@@ -15,6 +15,10 @@ a:hover{
     background-image: linear-gradient(30deg,#ffe042,#ffcd00) !important;
 }
 
+img{
+    max-width: 100%;
+}
+
 .bg-color{
     background-color: var(--blue);
 }
@@ -26,6 +30,10 @@ a:hover{
 .px-7{
     padding-left: 1.75rem;
     padding-right: 1.75rem;
+}
+
+.Navber img{
+    max-width: 50%;
 }
 
 .hero-bg{
