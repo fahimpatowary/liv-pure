@@ -283,6 +283,12 @@ footer ul li a:hover{
     }
 }
 
+@media screen and (max-width: 767px) {
+    .money-back img {
+        left: 12%;
+    }
+}
+
 :root{
     --blue: #00b5d9;
     --blue2: #036587;
